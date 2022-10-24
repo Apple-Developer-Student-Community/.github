@@ -11,7 +11,7 @@
 
 # 🙋‍♀️ A short introduction - what is your Community all about?
 
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
+<img align="right" height="150" src="images/Apple-developer-student-community.png">
 
 ![O-S-C](https://raw.githubusercontent.com/{Apple-Developer-Student-Community}.github/profile/images/Apple-developer-student-community.png)
 
