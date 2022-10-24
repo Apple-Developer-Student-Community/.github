@@ -24,6 +24,6 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/apple-student-community-9a2425251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/open-source-chandigarh" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/gQHsr8EHzr" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-pGLpNlxqwzObqX5p49_tDHxS9tp-1lf_adlb7oik5BO_Kjbud31JZZxaFgv2_uposM&usqp=CAU" alt="https://discord.com/invite/gQHsr8EHzr" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/invite/gQHsr8EHzr" target="blank"><img align="center" src="profile/images/Instagram-Logo.wine.svg" alt="https://discord.com/invite/gQHsr8EHzr" height="30" width="40" /></a>
 </p>
 
