@@ -10,7 +10,7 @@
 ## Hi Folks 👋
 
 # 🙋‍♀️ A short introduction - what is your Community all about?
-![]("profile/images/Apple developer student community.png")
+<img src="images/Apple developer student community.png"/>
 
 ![O-S-C]()
 > ### *Amongst us students, about 20 percent own a macbook, maybe even more. I am sure that when experiencing the macos for the very first time, you all must have faced difficulties. When I bought my macbook, I was constantly told that I made a wrong decision. Lack of online resources for help made me believe I had, but through other students’ support I would find a way around the problem. A lot of IOS users fail to use their apple products to its full potential.<br>This is what the apple students community is about. Students who face problems regarding any installation processes, those who do not know how to navigate around the macos, the hidden features of the macos, and much more would be a part of this community. This is the community where we learn and grow hand in hand. This community is all about helping as communities should be. but theres more to it. We also aim to teach students ios development through a series of classes and workshops, we will introduce the “in conversation with apple” where we will bring in the industry experts who are associated with apple and interview them on various questions raised by you guys.*
