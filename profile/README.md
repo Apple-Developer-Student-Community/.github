@@ -11,7 +11,7 @@
 
 # 🙋‍♀️ A short introduction - what is your Community all about?
 
-<img align="right" height="150" src="profile/images/Apple_developer_student_community.png">
+<img src="profile/images/Apple_developer_student_community.png">
 
 ![O-S-C](https://raw.githubusercontent.com/{Apple-Developer-Student-Community}.github/profile/images/Apple-developer-student-community.png)
 
