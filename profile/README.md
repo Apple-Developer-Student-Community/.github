@@ -9,7 +9,7 @@
 
 ## Hi Folks 👋
 
-# 🙋‍♀️ A short introduction - what is your Community all about?
+# 🙋👨🏻‍💻 A short introduction - What is your Community all about?
 
 <img src="profile/images/Apple_image.png">
 
@@ -23,7 +23,7 @@
 --->
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/company/open-source-chandigarh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/open-source-chandigarh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/apple-student-community-9a2425251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/open-source-chandigarh" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/gQHsr8EHzr" target="blank"><img align="center" src="" alt="https://discord.com/invite/gQHsr8EHzr" height="30" width="40" /></a>
 </p>
 
