@@ -9,7 +9,7 @@
 
 ## Hi Folks 👋
 
-# 🙋‍♀️ A short introduction - what is your organization all about?
+# 🙋‍♀️ A short introduction - what is your Community all about?
 <!---![](Images/Open-Source-Chandigarh.jpeg)--->
 <!---![Open-Source-Chandigarh](https://user-images.githubusercontent.com/91736425/184363962-9105fbaa-9dcd-4503-ab75-3aa731e769f0.jpeg)--->
 ![O-S-C]()
